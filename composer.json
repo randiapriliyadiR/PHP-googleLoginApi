@@ -1,0 +1,12 @@
+{
+    "name": "randi/php-googleloginapi",
+    "authors": [
+        {
+            "name": "randi apriliyadi rahmat",
+            "email": "randiapriliyadi@gmail.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-google": "^4.0"
+    }
+}
